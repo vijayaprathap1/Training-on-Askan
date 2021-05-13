@@ -1,1 +1,6 @@
 
+FUll text search
+    ->> full text search is nothing but the like the google, bing search, if you are searching with a keyword like "car" and "model" it would fetch the data from the keyword of car or model
+    it is like partial searching
+    
+    For example, you can search for Wood and Metal, FTS can return results that contain the searched words separately, just Wood or Metal, or results that contain the words in a different order Word and Metal, or Metal and Wood.
