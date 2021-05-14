@@ -1,0 +1,4 @@
+Coposite index 
+  -->A composite index is an index on multiple columns. MySQL allows you to create a composite index that consists of up to 16 columns.
+
+  -->A composite index is also known as a multiple-column index.
